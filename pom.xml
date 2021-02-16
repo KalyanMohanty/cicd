@@ -3,7 +3,6 @@
   <groupId>jenkin-tomcat</groupId>
   <artifactId>jenkin-tomcat</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
   <name>jenkin-tomcat</name>
   <description>jenkin-tomcat deployment
 jenkin-tomcat</description>
